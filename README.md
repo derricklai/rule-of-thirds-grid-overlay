@@ -180,6 +180,10 @@ CMD ["python", "rule_of_thirds_overlay.py", "--help"]
 
 ---
 
+## Sample Output
+
+- todo
+
 ## Troubleshooting
 
 - **Temp file corruption:**  
