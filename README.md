@@ -1,4 +1,4 @@
-# Rule of Thirds Video Overlay with Resume & Audio Restoration
+# Rule of Thirds Video Overlay CLI Tool
 
 A Python script to overlay a **Rule of Thirds grid** on videos with:
 
