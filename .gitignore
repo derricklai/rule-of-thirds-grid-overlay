@@ -1,1 +1,19 @@
-/output
+# Python cache and bytecode
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env/
+
+# Video output and temp files
+output_*
+final_*
+temp_output_*
+
+# OS and editor junk
+.DS_Store
+Thumbs.db
+
+# VSCode settings (optional)
+.vscode/
