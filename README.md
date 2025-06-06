@@ -184,6 +184,12 @@ CMD ["python", "rule_of_thirds_overlay.py", "--help"]
 
 - todo
 
+## Future Features
+
+- Batch processing
+- IINA Plugin
+- Parallel processing
+
 ## Troubleshooting
 
 - **Temp file corruption:**  
